@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/lavender/AncientOS-weeaboify-v4.0-Final-lavender-Koshiki-20200928-1205-Vanilla.zip 
+  ROM_URL: https://deac-fra.dl.sourceforge.net/project/posp/lavender/dumaloo/potato_lavender-11-20201223-dumaloo.v4.0.1+2.Crispy.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Ancientos4.0
+  ZIP_NAME: POSP 4.0.1
 jobs:
   build:
     runs-on: ubuntu-latest
